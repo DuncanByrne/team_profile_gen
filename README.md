@@ -6,6 +6,13 @@ We used jest in our terminal to help us test our JavaScript code and we used NPM
 The Constructor and ES^ functions, helped us call the methods we needed in the program.
 
 
+
+Link to repo:
+
+
+https://github.com/DuncanByrne/team_profile_gen
+
+
 User Story:
 
 
