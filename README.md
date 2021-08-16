@@ -12,6 +12,8 @@ Link to repo:
 
 https://github.com/DuncanByrne/team_profile_gen
 
+link to video  https://youtu.be/qlVouWkTXf8
+
 
 User Story:
 
